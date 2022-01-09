@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SSIVALAS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SSIVALAS\\.nuget\\packages"
+    ]
+  }
+}
